@@ -1,0 +1,9 @@
+body{
+  background-image: url("../img/fondoRayas.jpg");
+  font-family: 'Tangerine', cursive;
+}
+
+footer{
+  font-size: 30px;
+  text-align: center;
+}
